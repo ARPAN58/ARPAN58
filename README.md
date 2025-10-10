@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/arpan-singh-91168325b/">
+  <a href="https://www.linkedin.com/in/arpan-singh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -60,7 +60,8 @@ I am a final-year Computer Science student specializing in Artificial Intelligen
 
 | Project Name                                     | Description                                                                                                                              | Technologies Used                                |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| **MLOps CI/CD Pipeline for Churn Prediction**    | Built an end-to-end CI/CD pipeline to automate the deployment of a machine learning model, implementing key MLOps practices.    | `Python`, `Flask`, `Docker`, `GitHub Actions`    |
+| **[Multi-Agent System with CrewAI](https://github.com/ARPAN58/MULTI-AGENT-system)** | A system where AI agents collaborate to research a topic, compile the findings into a blog post, and save it to a file. | `Python`, `CrewAI`, `Langchain Groq` |
+| **MLOps CI/CD Pipeline for Churn Prediction** | Built an end-to-end CI/CD pipeline to automate the deployment of a machine learning model, implementing key MLOps practices.    | `Python`, `Flask`, `Docker`, `GitHub Actions`    |
 | **MedTrack - Digital Health Management System** | A full-stack MERN application to connect patients, doctors, and pharmacists with a secure, role-based access control system. | `React`, `Node.js`, `MongoDB`, `JWT`, `Docker` |
 
 ---
