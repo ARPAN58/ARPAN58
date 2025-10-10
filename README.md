@@ -61,8 +61,8 @@ I am a final-year Computer Science student specializing in Artificial Intelligen
 | Project Name                                     | Description                                                                                                                              | Technologies Used                                |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | **[Multi-Agent System with CrewAI](https://github.com/ARPAN58/MULTI-AGENT-system)** | A system where AI agents collaborate to research a topic, compile the findings into a blog post, and save it to a file. | `Python`, `CrewAI`, `Langchain Groq` |
-| **MLOps CI/CD Pipeline for Churn Prediction** | Built an end-to-end CI/CD pipeline to automate the deployment of a machine learning model, implementing key MLOps practices.    | `Python`, `Flask`, `Docker`, `GitHub Actions`    |
-| **MedTrack - Digital Health Management System** | A full-stack MERN application to connect patients, doctors, and pharmacists with a secure, role-based access control system. | `React`, `Node.js`, `MongoDB`, `JWT`, `Docker` |
+| **[MLOps CI/CD Pipeline for Churn Prediction](https://github.com/ARPAN58/mlops-churn-pipeline)** | Built an end-to-end CI/CD pipeline to automate the deployment of a machine learning model, implementing key MLOps practices.    | `Python`, `Flask`, `Docker`, `GitHub Actions`    |
+| **[MedTrack - Digital Health Management System](https://github.com/ARPAN58/MEDTRACK)** | A full-stack MERN application to connect patients, doctors, and pharmacists with a secure, role-based access control system. | `React`, `Node.js`, `MongoDB`, `JWT`, `Docker` |
 
 ---
 
